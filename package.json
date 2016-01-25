@@ -1,0 +1,16 @@
+{
+  "name": "mosquito",
+  "version": "1.0.0",
+  "description": "Annoying sound to encourage you to do something",
+  "main": "index.js",
+  "bin": "mosquito.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Gentle <sam@samgentle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "opn": "^4.0.0",
+    "temp": "^0.8.3"
+  }
+}
